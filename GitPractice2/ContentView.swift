@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, Ashley!")
                 .fontWeight(.bold)
             Text("Goodbye, Ashley")
+            Text("Change 3")
         }
         .padding()
     }
